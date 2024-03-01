@@ -197,7 +197,7 @@ $conn->close();
     <div class="container">
          <header>
             <img src="images/civ.png" alt="" class="mcro-logo">
-        Fill up the Request Form
+        Fill up the Death Request Form
         </header>
 
 

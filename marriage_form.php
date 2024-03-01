@@ -206,7 +206,7 @@ $conn->close();
     <div class="container">
          <header>
             <img src="images/civreg.jpg" alt="" class="mcro-logo">
-        Fill up the Request Form
+        Fill up the Marriage Request Form
          </header>
 
         <form method="POST" action="">

@@ -228,7 +228,6 @@ if(!isset($_SESSION['name'])) {
     <p class="description">The Guide for your papers.</p>
    
     <div class="box-container">
-
         <div class="box">
             <span>1</span>
             <h3>Fill up the Application Form</h3>
